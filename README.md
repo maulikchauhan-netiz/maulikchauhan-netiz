@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Maulik 👋
 
-<!--
-**maulikchauhan-netiz/maulikchauhan-netiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Computer Engineering Student
 
-Here are some ideas to get you started:
+💡 Curious Learner | Technology Enthusiast | Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring programming, Linux, Git, GitHub, and modern development tools.
+
+🚀 Passionate about learning new technologies, building projects, and continuously improving my technical skills.
+
+🎯 My goal is to gain practical experience, create impactful projects, and grow as a software engineer.
+
+📫 Feel free to connect and collaborate!
