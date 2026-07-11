@@ -44,13 +44,15 @@
 ```
 ## 🎓 Currently Studying
 
+
 <div align="center">
+<P><b>🎓 Atmiya University, Rajkot</b><p>
+<p><b>Diploma in Computer Engineering</b><br>
+📚 Currently Studying | Second Year<br>
+🗓️ 2025 - Present
+</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Atmiya_University_logo.png" width="100">
-
-<h3>Atmiya University, Rajkot 🇮🇳</h3>
-
-<br/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -97,29 +99,21 @@ Short description of what it does and why you built it.
 
 <br/>
 
-## 🎯 Current Focus
+## 🚀 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Python
-    - C#
-    - Git & GitHub
-    - Linux
-    - HTML & CSS
-  building:
-    - Diploma coursework projects
-    - Personal coding practice
-  exploring:
-    - Web Development fundamentals
-    - Open Source basics
-  open_to:
-    - Internship opportunities
-    - Collaborative student projects
-    - Mentorship
-```
+**Learning**
+- 🐍 Python
+- #️⃣ C#
+- 🔧 Git & GitHub
+- 🐧 Linux
 
-<br/>
+**Building**
+- 🎓 Diploma coursework projects
+- 💻 Personal coding practice
+
+**Exploring**
+- 🌐 Web Development fundamentals
+- 🌱 Open Source basics
 
 ## 📊 GitHub Analytics
 
@@ -136,13 +130,7 @@ current_focus:
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maulikchauhan-netiz&theme=algolia&no-frame=true&margin-w=15&row=1" />
-
-</div>
 
 <br/>
 
