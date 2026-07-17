@@ -119,20 +119,19 @@ Short description of what it does and why you built it.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maulikchauhan-netiz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikchauhan-netiz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maulikchauhan-netiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maulikchauhan-netiz&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikchauhan-netiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <br/>
 
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=maulikchauhan-netiz&theme=tokyonight&hide_border=true"/>
 
-<br/>
+</div>
 
 ## 📈 Contribution Activity
 
