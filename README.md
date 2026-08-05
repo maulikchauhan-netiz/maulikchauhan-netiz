@@ -119,10 +119,9 @@ Short description of what it does and why you built it.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maulikchauhan-netiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maulikchauhan-netiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikchauhan-netiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikchauhan-netiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
@@ -137,8 +136,7 @@ Short description of what it does and why you built it.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maulikchauhan-netiz&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maulikchauhan-netiz&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br/>
